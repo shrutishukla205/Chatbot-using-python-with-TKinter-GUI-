@@ -16,7 +16,7 @@ A beginner-friendly Rule-based chatbot (Suzu) built using Python and Tkinter GUI
 - Clone the repository 
 - Open the project in VS Code
 - Run the Python file
-- 
+  
 ## Concepts Used
 - Python Fundamentals 
 - Functions

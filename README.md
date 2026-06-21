@@ -18,11 +18,40 @@ A beginner-friendly Rule-based chatbot (Suzu) built using Python and Tkinter GUI
 - Run the Python file
   
 ## Concepts Used
-- Python basics
-- Functions
-- Conditional Statements 
-- user input handling -Tkinter(for creating interface)
-- Event Handling(button clicks action)
+
+💻 **Python Concepts:**
+
+Variables and data types
+
+Conditional statements (if-else)
+
+Functions
+
+String handling
+
+Loops (optional)
+
+🖥️ **GUI (Tkinter):**
+
+Tkinter window creation
+
+Labels and Buttons
+
+Entry widget (user input box)
+
+Text widget (chat display)
+
+Event handling (button click)
+
+🤖 **Chatbot Logic:**
+
+Rule-based system
+
+Keyword matching
+
+Predefined responses
+
+Simple conversation flow
 
 ## 🚀 **Future Improvements**
 

@@ -26,12 +26,27 @@ A beginner-friendly Rule-based chatbot (Suzu) built using Python and Tkinter GUI
 
 ## 🚀 **Future Improvements**
 
-🧠 Upgrade chatbot from rule-based system to NLP-based model (TF-IDF / Machine Learning)
+🧠 Upgrade chatbot from rule-based system to NLP-based model (TF-IDF / Machine Learning)  
+
 🤖 Improve response quality using intent classification techniques
+
+
 💬 Add context-aware conversation (chat memory system)
+
+
 🎤 Integrate voice input and voice output features
+
+
 💾 Store chat history using file handling or database (SQLite)
+
+
 🌐 
 Convert desktop Tkinter app into a web application using Streamlit or Flask
+
+
 🎨 
 Improve UI design with modern GUI libraries like CustomTkinter or PyQt
+
+
+
+
